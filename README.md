@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-WildySheverando VPN Script Version 5.5.0
+VPN Quick Setup By Wildy V 8.0.3
 <h2><hr>
 <!---- © Copyright 2021 By Wildy Sheverando ------>
 <h3 align="center">
