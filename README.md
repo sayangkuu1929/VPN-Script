@@ -36,6 +36,9 @@ Addons Service
 ✔ Centos 6 (X86_64) (X86) (X64) ( Not Recomeded )<br>
 ✔ Centos 7 (X86_64) (X86) (X64) ( Stable + Recomeded )<br>
 ✔ Centos 8 (X86_64) (X86) (X64) ( Stable + Recomeded Best Choose )<br>
+✔ Fedora 32 (X86_64) (X86) (X64) ( Tested + Stable )<br>
+✔ Fedora 33  (X86_64) (X86) (X64) ( Stable + Recomeded Best Choose )<br>
+✔ Aliyun / Alibaba Linux (X86_64) (X86) (X64) ( Tested + Stable )<br>
 </b>
 
 ## 🔰 Feature Script 🔰
