@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-VPN Quick Setup By Wildy V 8.0.3
+VPN Quick Setup By Wildy Sheverando ( Version 8.0.3 )
 <h2><hr>
 <!---- © Copyright 2021 By Wildy Sheverando ------>
 <h3 align="center">
