@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-VPN Quick Setup By Wildy Sheverando ( Version 8.0.3 )
+VPN Quick Setup ( Version 8.0.3 )
 <h2><hr>
 <!---- © Copyright 2021 By Wildy Sheverando ------>
 <h3 align="center">
@@ -33,9 +33,9 @@ Addons Service
 ✔ Ubuntu 18.04 (X86_64) (X86) (X64) ( Recomed )<br>
 ✔ Ubuntu 20.04 (X86_64) (X86) (X64) ( Trojan & Stunnel Not Stable )<br>
 ✔ Ubuntu 20.10 (X86_64) (X86) (X64) ( V2Ray Not Stable )<br>
-❌ Centos 6 ( Not Supported )<br>
-❌ Centos 7 ( Not Supported )<br>
-❌ Centos 8 ( Not Supported ) <br>
+✔ Centos 6 (X86_64) (X86) (X64) ( Not Recomeded )<br>
+✔ Centos 7 (X86_64) (X86) (X64) ( Stable + Recomeded )<br>
+✔ Centos 8 (X86_64) (X86) (X64) ( Stable + Recomeded Best Choose )<br>
 </b>
 
 ## 🔰 Feature Script 🔰
